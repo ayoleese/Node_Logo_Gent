@@ -21,3 +21,8 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+
+[Link to my walkthrough video]
+https://drive.google.com/file/d/1iNQ5YfXmzGL6e3Ckf2aSJ4gEvVBJOr_Q/view
+
+![Example of logo](<Screenshot 2023-12-10 at 1.59.54 PM.png>)
